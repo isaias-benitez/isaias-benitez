@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](isaias.png)
+![oswaldo.png]  ![](isaias.png)
 
 <!--
 **isaias-benitez/isaias-benitez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
